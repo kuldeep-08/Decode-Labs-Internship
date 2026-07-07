@@ -1,1 +1,1 @@
-# Decode-Labs-Internship
+# Decode-Labs-Cybersecurity-Internship
